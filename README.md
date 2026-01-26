@@ -98,5 +98,5 @@ Cross-validation is used to ensure reliable and unbiased performance evaluation.
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/car-price-prediction-ml.git
+git clone https://github.com/Abhi-prajapat-i/car-price-prediction-ml.git
 
