@@ -10,7 +10,12 @@ The objective of this project is to **predict the price of a car** based on its 
 This is a **supervised regression problem** where the target variable is continuous.
 
 ---
+## 🚀 Live Demo
 
+The site is hosted on GitHub Pages and can be viewed here:  
+**[https://huggingface.co/spaces/Abhishek7200/Car_price_prediction](https://huggingface.co/spaces/Abhishek7200/Car_price_prediction)
+
+---
 ## 📊 Dataset Features
 
 The dataset contains the following features:
@@ -68,6 +73,7 @@ The dataset contains the following features:
 - Scikit-learn
 - XGBoost
 - Jupyter Notebook
+- streamlit 
 
 ---
 
@@ -82,6 +88,8 @@ The dataset contains the following features:
 5. Model training
 6. Model evaluation using cross-validation
 7. Model comparison and performance analysis
+8. Build a final model.
+S
 
 ---
 
