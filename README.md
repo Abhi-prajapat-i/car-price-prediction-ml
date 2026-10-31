@@ -12,7 +12,7 @@ This is a **supervised regression problem** where the target variable is continu
 ---
 ## 🚀 Live Demo
 
-The site is hosted on GitHub Pages and can be viewed here:  
+The site is hosted on Huggingface and can be viewed here:  
 **[https://huggingface.co/spaces/Abhishek7200/Car_price_prediction](https://huggingface.co/spaces/Abhishek7200/Car_price_prediction)
 
 ---
